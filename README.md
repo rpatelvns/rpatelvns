@@ -2,7 +2,7 @@
 
 ### Software Architect | Generative AI Enthusiast | Distributed Systems Engineer
 
-I am a Software Architect with 17+ years of experience designing and building scalable enterprise applications, cloud-native platforms, AI-powered solutions, and distributed systems.
+I am a Software Architect with 20+ years of experience designing and building scalable enterprise applications, cloud-native platforms, AI-powered solutions, and distributed systems.
 
 Currently focused on:
 - 🤖 Generative AI & Agentic AI Systems
